@@ -8,11 +8,12 @@
 Este repositorio servirá para llevar un control de las tareas que cada integrante del grupo debe 
 realizar para cumplir con el desarrollo del proyecto. 
 <h3>INTEGRANTES</h3>
+<ul>
 Osmin Eduardo Jimenez Cantoral
 Bryan Cesar Augusto Sagastume Hernandez
 Darwin Orlando Ruiz Mateo
 Elias
-
+</ul>
 
 
 
