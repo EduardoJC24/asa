@@ -2,9 +2,7 @@
 <html>
 <body>
 <img src="https://www.queestudiar.org/wp-content/uploads/2017/10/software-750x350.jpg" alt="Girl in a jacket" width="750" height="350">
-<pre>
-                      <p style="font-size:300%;">PROYECTO DE ANALISIS DE SISTEMAS II size</p>
-</pre>
 
+<p style="font-size:160%;">This is a paragraph.</p>
 </body>
 </html>
