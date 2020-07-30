@@ -6,8 +6,8 @@
 <h2>**************** PROYECTO ANALISIS DE SISTEMAS II ****************</h2>
 
 <h3>DESCRIPCION</h3>
-Este repositorio servirá para llevar un control de las tareas que cada integrante del grupo debe realizar para cumplir 
-con el desarrollo del proyecto. 
+Este repositorio servirá para llevar un control de las tareas que cada integrante del grupo debe 
+realizar para cumplir con el desarrollo del proyecto. 
 
 
 
