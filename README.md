@@ -6,7 +6,8 @@
 <h3>DESCRIPCION</h3>
 <pre>
 Este repositorio servirá para llevar un control de las tareas que cada integrante del grupo debe 
-realizar para cumplir con el desarrollo del proyecto.</pre> 
+realizar para cumplir con el desarrollo del proyecto.
+</pre> 
 <h3>INTEGRANTES</h3>
 <ul>
 <li>Osmin Eduardo Jimenez Cantoral</li>
